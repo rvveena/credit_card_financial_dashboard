@@ -2,22 +2,25 @@
 credit_card_financial_dashboard is developed using power bi &amp; sql
  Credit Card Financial Report Dashboard
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 💡 Project Description
 
-____________________________________________________________________________________________________________________________________________________________________________________________________________________
 This project focuses on developing an advanced Credit Card Financial Report Dashboard designed to provide stakeholders with real-time insights into key performance metrics and trends in credit card operations. The dashboard empowers decision-makers by presenting critical data in a visual format, making it easier to monitor and analyze various aspects of credit card usage, transactions, and customer demographics.
 The goal is to optimize operational efficiency, streamline decision-making processes, and enable data-driven strategies in the credit card management system.
 
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
- 🛠️ Tech Stack
- ____________________________________________________________________________________________________________________________________________________________________________________________________________________
+ 🛠️ Tools Used
+ 
 - Power BI: Used for data visualization, dashboard creation, and interactive reports.
 - MS SQL: Another database used for storing transaction data, enabling SQL-based querying and reporting.
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
  💡 Skills Showcased in this Project
- ____________________________________________________________________________________________________________________________________________________________________________________________________________________
+ 
 - Data Extraction: Importing raw data from multiple sources into SQL databases.
 - Data Cleaning: Cleaning and preprocessing data to ensure consistency and accuracy.
 - Data Transformation: Using SQL and Power BI's DAX (Data Analysis Expressions) to manipulate and structure data for reporting.
@@ -37,6 +40,9 @@ The project follows a systematic approach to build a comprehensive financial das
 5. Interactive Dashboard Design: Visual elements such as charts, tables, and slicers are added to create an intuitive and interactive dashboard.
 6. Insight Generation: The dashboard is used to generate actionable insights and trends, providing a clear understanding of credit card performance and customer behavior.
 
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 📸 Data Visualizations
 
 Below are visual snapshots of the dashboard:
@@ -48,6 +54,8 @@ Below are visual snapshots of the dashboard:
 - Credit Card Customer Report Dashboard
 ![Screenshot 2024-11-06 202532](https://github.com/user-attachments/assets/5428b9b3-8e27-42ac-b744-fb81d9730352)
 
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 📊 Project Learnings
 
@@ -64,6 +72,8 @@ Throughout this project, I gained hands-on experience in building an interactive
 5.Actionable Insights: The dashboard allowed me to generate actionable insights for stakeholders, helping them make informed decisions and take corrective actions as needed.
 
 6.Data Processing Optimization: Streamlined the data processing pipeline, improving the efficiency and accuracy of the financial reporting process.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🔄 Conclusion
 
