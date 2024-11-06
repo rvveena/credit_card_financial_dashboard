@@ -3,20 +3,27 @@ credit_card_financial_dashboard is developed using power bi &amp; sql
  Credit Card Financial Report Dashboard
 
 💡 Project Description
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 This project focuses on developing an advanced Credit Card Financial Report Dashboard designed to provide stakeholders with real-time insights into key performance metrics and trends in credit card operations. The dashboard empowers decision-makers by presenting critical data in a visual format, making it easier to monitor and analyze various aspects of credit card usage, transactions, and customer demographics.
 The goal is to optimize operational efficiency, streamline decision-making processes, and enable data-driven strategies in the credit card management system.
 
 
+
  🛠️ Tech Stack
+ ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 - Power BI: Used for data visualization, dashboard creation, and interactive reports.
 - MS SQL: Another database used for storing transaction data, enabling SQL-based querying and reporting.
 
 
  💡 Skills Showcased in this Project
+ ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 - Data Extraction: Importing raw data from multiple sources into SQL databases.
 - Data Cleaning: Cleaning and preprocessing data to ensure consistency and accuracy.
 - Data Transformation: Using SQL and Power BI's DAX (Data Analysis Expressions) to manipulate and structure data for reporting.
 - Data Visualization: Designing and creating interactive, dynamic dashboards for real-time insights.
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 📅🔍 Project Approach
